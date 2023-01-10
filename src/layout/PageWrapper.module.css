@@ -1,0 +1,9 @@
+.wrapper {
+  background-color: #DFDFDF;
+  margin: auto;
+  margin-top: 0.5rem;
+  width: 99%;
+  height: 98%;
+  border-radius: 1rem;
+  padding: 1rem;
+}
